@@ -1,0 +1,6 @@
+framework module OMSmaatoAdapter {
+  umbrella header "OMSmaatoAdapter.h"
+
+  export *
+  module * { export * }
+}
